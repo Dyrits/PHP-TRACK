@@ -1,2 +1,7 @@
+# PHPUnit
+phpunit.phar
+.phpunit.result.cache
+
+
 # PHPStorm
 .idea/
